@@ -121,3 +121,4 @@ run/
 .project
 .settings/
 bin/
+*.launch
